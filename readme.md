@@ -4,7 +4,7 @@
 pip install -r requirements.txt
 ```
 ```python
-uvicorn user_routes:app --reload
+python -m uvicorn user_routes:app --reload
 ```
 
 # Proekti test elemek ucun: 
